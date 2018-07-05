@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Adam Booth"]
   spec.email         = ["4rlm@protonmail.ch"]
 
-  spec.summary       = %q{SortRank solves ALL sudoku puzzles, including mathematician Arto Inkala's world's most difficult sudoku puzzle}
-  spec.description   = %q{SortRank solves ALL sudoku puzzles, including mathematician Arto Inkala's  world's most difficult sudoku puzzle.}
+  spec.summary       = %q{Sorts and Ranks text in strings, like a full text article or document}
+  spec.description   = %q{Sorts and Ranks text in strings, like a full text article or document.}
 
   spec.homepage      = 'https://github.com/4rlm/sort_rank'
   spec.license       = "MIT"

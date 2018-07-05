@@ -3,7 +3,7 @@
 [![Gem Version](https://badge.fury.io/rb/sort_rank.svg)](https://badge.fury.io/rb/sort_rank)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-#### SortRank solves ALL sudoku puzzles, including mathematician Arto Inkala's  world's most difficult sudoku puzzle.
+#### Sorts and Ranks text in strings, like a full text article or document.
 
 Note: Currently being moved from local environment to this gem.  Will be completed by 7/10/18
 
