@@ -6,5 +6,10 @@ require "sort_rank/solver"
 require 'pry'
 
 module SortRank
-  # Your code goes here...
+
+  def self.parse(args={})
+    binding.pry
+    sort_rank_hash = self::Solver.new.parse(args)
+  end
+
 end
