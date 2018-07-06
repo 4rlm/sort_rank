@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sort_rank (1.01)
+    sort_rank (1.02)
       activesupport (~> 5.2)
       crm_formatter (~> 2.64)
       mechanizer (~> 1.12)
