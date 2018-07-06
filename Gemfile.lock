@@ -8,7 +8,6 @@ PATH
       scrub_db (~> 2.23)
       url_verifier (~> 2.12)
       utf8_sanitizer (~> 2.16)
-      wikipedia-client (~> 1.5)
 
 GEM
   remote: https://rubygems.org/
@@ -95,7 +94,6 @@ GEM
     utf8_sanitizer (2.16)
       activesupport (~> 5.2)
     webrobots (0.1.2)
-    wikipedia-client (1.10.0)
 
 PLATFORMS
   ruby
