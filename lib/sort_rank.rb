@@ -1,6 +1,6 @@
 require "sort_rank/version"
 
-require "sort_rank/logic"
+require "sort_rank/solver"
 # require 'mechanizer'
 # require 'scrub_db'
 require 'pry'

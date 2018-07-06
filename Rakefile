@@ -27,7 +27,7 @@ end
 
 def run_sudoku
   binding.pry
-  solve = SortRank::Logic.new
+  solve = SortRank::Solver.new
   res = solve.start
   binding.pry
 
