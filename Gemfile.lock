@@ -1,13 +1,12 @@
 PATH
   remote: .
   specs:
-    sort_rank (1.02)
+    sort_rank (2.0)
       activesupport (~> 5.2)
-      crm_formatter (~> 2.64)
+      crm_formatter (~> 2.65)
       mechanizer (~> 1.12)
-      scrub_db (~> 2.23)
+      scrub_db (~> 2.24)
       url_verifier (~> 2.12)
-      utf8_sanitizer (~> 2.16)
 
 GEM
   remote: https://rubygems.org/
@@ -20,7 +19,7 @@ GEM
     coderay (1.1.2)
     concurrent-ruby (1.0.5)
     connection_pool (2.2.2)
-    crm_formatter (2.64)
+    crm_formatter (2.65)
       activesupport (~> 5.2)
       utf8_sanitizer (~> 2.16)
     curb (0.9.6)
@@ -75,7 +74,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.7.0)
     rspec-support (3.7.1)
-    scrub_db (2.23)
+    scrub_db (2.24)
       activesupport (~> 5.2)
       crm_formatter (~> 2.64)
       utf8_sanitizer (~> 2.16)
@@ -91,7 +90,7 @@ GEM
       curb (~> 0.9.6)
       net-ping (~> 1.7, >= 1.7.8)
       utf8_sanitizer (~> 2.16)
-    utf8_sanitizer (2.16)
+    utf8_sanitizer (2.17)
       activesupport (~> 5.2)
     webrobots (0.1.2)
 
