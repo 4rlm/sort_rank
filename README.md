@@ -1,5 +1,6 @@
 # SortRank
 
+[![Build Status](https://travis-ci.org/4rlm/sort_rank.svg?branch=master)](https://travis-ci.org/4rlm/sort_rank)
 [![Gem Version](https://badge.fury.io/rb/sort_rank.svg)](https://badge.fury.io/rb/sort_rank)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

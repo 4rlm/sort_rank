@@ -1,12 +1,12 @@
 PATH
   remote: .
   specs:
-    sort_rank (2.0)
+    sort_rank (2.1)
       activesupport (~> 5.2)
       crm_formatter (~> 2.65)
       mechanizer (~> 1.12)
       scrub_db (~> 2.24)
-      url_verifier (~> 2.12)
+      url_verifier (~> 3.1)
 
 GEM
   remote: https://rubygems.org/
@@ -84,12 +84,12 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.5)
-    url_verifier (2.12)
+    url_verifier (3.1)
       activesupport (~> 5.2)
-      crm_formatter (~> 2.62)
+      crm_formatter (~> 2.65)
       curb (~> 0.9.6)
       net-ping (~> 1.7, >= 1.7.8)
-      utf8_sanitizer (~> 2.16)
+      utf8_sanitizer (~> 2.17)
     utf8_sanitizer (2.17)
       activesupport (~> 5.2)
     webrobots (0.1.2)
